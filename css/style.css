@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+.caja1 {
+    background-color: black;
+    height: 200px;
+}
+.buscadorg{
+    width: 600px;
+}
